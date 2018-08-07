@@ -1,11 +1,11 @@
-## amazon-storefront
+### amazon-storefront
 
-## Developer
+#### Developer
 Danielle Garcia 
 Georgia Tech Bootcamp 
 7 August 2018
 
-### Description
+#### Description
 This application allows the user to chose from one of the five options, 
  View Products for Sale
   View Low Inventory
