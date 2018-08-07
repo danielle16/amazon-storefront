@@ -6,7 +6,7 @@ Georgia Tech Bootcamp
 7 August 2018
 
 #### Description
-This application allows the user to chose from one of the five options, 
+This application allows the user to choose from one of the five options, 
  View Products for Sale
   View Low Inventory
   Add to Inventory
