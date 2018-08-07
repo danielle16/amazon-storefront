@@ -17,4 +17,4 @@ This application allows the user to chose from one of the five options,
 Link: 
 https://drive.google.com/file/d/1RSHpPeKm7x1HCBw50LwA6jenQc5eqspc/view 
 
-![alt text](../assets/database_reference)
+![alt text](../database_reference)
